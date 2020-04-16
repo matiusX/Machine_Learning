@@ -24,4 +24,4 @@ preview = model.predict(test_x)
 win_rate = accuracy_score(test_y, preview) * 100
 
 print("Win-rate: %.2f%%" % win_rate)
-
+# :)
